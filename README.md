@@ -19,8 +19,6 @@ The analysis incorporates both **Latent Dirichlet Allocation (LDA)** and **BERTo
 ## Files in the Repository
 
 - **`Twitter_Climate_Change_Sentiment.ipynb`**: The Jupyter Notebook that walks through the analysis, from data loading to model training and evaluation.
-- **`requirements.txt`**: Lists all required Python dependencies to run the project.
-- **`.env.example`**: Example environment configuration (if you choose to extend the project to collect new data).
 - **`README.md`**: Project documentation.
 
 ## Data Source and Pre-processing
